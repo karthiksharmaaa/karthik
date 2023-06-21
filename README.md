@@ -1,2 +1,2 @@
 # karthik
-Repo for Intern
+Repository for Intern
